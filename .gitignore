@@ -1,0 +1,13 @@
+# Data file (60MB - too large for GitHub)
+data/mumbai_local_crowd_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
